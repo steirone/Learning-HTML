@@ -1,0 +1,66 @@
+.test {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 710px;
+    height: 280px;
+    padding: 60px;
+
+  }
+.test_kanan {
+    flex: 33%;
+}
+.test_kiri {
+    flex: 33%;
+    padding: 10px;
+}
+.test_tengah {
+    flex: 34%;
+    border-radius: 25px;
+    border: 2px solid black;
+    padding: 20px;
+}
+.hct {
+    background-color: pink;
+    width: 300px;
+    margin-right: 17%;
+    margin-right: 15%;
+}
+
+#gimana {
+    border-style: none;
+    background-color: rgb(236, 227, 227);
+    padding: 15px;
+}  
+p {
+    width: 30px;
+    height: 30px;
+    margin: 18px auto;
+    border-radius: 5px;
+}
+.ftrcl {
+    border-style: none;
+    background-color: rgb(236, 227, 227);
+    padding: 20px;
+}
+.testol {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+}
+.testo {
+    justify-content: space-evenly;
+}
+.barang {
+    margin-right: 50%;
+}
+.harga{
+    margin-right: 75%;
+}
+.about{
+    margin-right: 70%;
+}
+.desk {
+    margin-right: %;
+}
